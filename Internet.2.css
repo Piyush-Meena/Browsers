@@ -1,0 +1,376 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #e6e6e6;
+    font: 15px Arial;
+    color: #333;
+  }
+  #AS23 {
+    background:  url("https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-gear-32.png") no-repeat ;
+    
+  }
+  
+  h1{
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  p{
+    font-size: 18px;
+  }
+  
+  header{
+    width: 100%;
+    height: 80px;
+    background: #fff;
+    clear: both;
+    overflow: hidden;
+  }
+  
+  header img{
+    margin: 10px;
+    float: left;
+  }
+  
+  #UL1{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav{
+    width: 300px;
+    height: auto;
+    float: right;
+    
+  }
+  
+  nav li a{
+    float: left;
+    margin: 0;
+    padding: 10px;
+    width: 50px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+        nav li a:hover::before{
+    float: none;
+    margin: 0;
+    padding: 10px;
+    width: 50px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+        nav li a:hover{
+    float: left;
+    margin: 0;
+    padding: 10px;
+    width: 50px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    transition: all 0.3s ease;
+            color:white;
+            background:#3498db;
+  }
+  
+  #AB13 {
+            background: #fff;
+    color: #3498db;
+            text-decoration: none;
+        }
+        #AB13:hover::before {
+            background: #fff;
+    color: #3498db;
+            text-decoration: none;
+        }
+        #AB13:hover {
+            background: #3498db;
+    color: #fff;
+            text-decoration: none;
+        }
+        #AB12 {
+            background: #fff;
+    color: #3498db;
+            text-decoration: none;
+        }
+        #AB12:hover::before {
+            background: #fff;
+    color: #3498db;
+            text-decoration: none;
+        }
+        #AB12:hover {
+            background: #3498db;
+    color: #fff;
+            text-decoration: none;
+        }
+         #AB11 {
+            background: #fff;
+    color: #3498db;
+            text-decoration: none;
+        }
+        #AB11:hover::before {
+            background: #fff;
+    color: #3498db;
+            text-decoration: none;
+        }
+        #AB11:hover {
+            background: #3498db;
+    color: #fff;
+            text-decoration: none;
+        }
+  
+  .wrapper1{
+    width: 1000px;
+    height: auto;
+    max-width: 100%;
+    float: left;
+    margin: 0 auto;
+    
+  }
+  .wrapper2{
+    width: 1000px;
+    height: auto;
+    max-width: 100%;
+    float:right;
+    margin: 0 auto;
+    
+  }
+  
+  
+  
+  
+  
+  
+  .flash{
+    background: aqua;
+    height: 250px;
+    margin: 40px auto;
+    border: 10px solid darkblue;
+    padding: 50px 30px 30px;
+    color: aqua;
+    transition: all 0.3s ease;
+    margin-left:0%;
+  }
+  .flash:hover::before{
+    background: aqua;
+    height: 250px;
+    margin: 40px auto;
+    border: 10px solid darkblue;
+    padding: 50px 30px 30px;
+    color: aqua;
+    transition: all 0.3s ease;
+    margin-left:0%;
+  }
+  .flash:hover{
+    background: darkblue;
+    height: 250px;
+    margin: 40px auto;
+    border: 10px solid aqua;
+    padding: 50px 30px 30px;
+    color: darkblue;
+    transition: all 0.3s ease;
+    margin-left:0%;
+  }
+  
+  .flash p{
+    width: 500px;
+    font-weight: normal;
+  }
+  
+  .flash a{
+    border-radius: 3px;
+    display: block;
+    width: 150px;
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    text-align: center;
+    margin: 40px 0;
+  }
+  
+  .mid{
+    margin: 0 auto;
+    clear: both;
+    overflow: hidden;
+  }
+  
+  .box{
+    border-radius: 1000px;
+    width: 170px;
+    height: 150px;
+    float: left;
+    background: #fff;
+    text-align: center;
+    padding: 4em 20px 0;
+    color: #3498db;
+    transition: all 0.3s ease;
+    margin: 0 20px;
+  }
+  
+  footer{
+    background: #3498db;
+    width: 100%; 
+    height: 80px;
+    clear: both;
+    overflow: hidden;
+    margin-top: 5em;
+    transition: all 0.3s ease;
+  }
+  #tt6{
+            margin-left:1.5px;
+            margin-top:1.5px;
+            margin-right:1.5px;
+            padding:0.5;
+            margin:0.5;
+            color:violet;
+            background-color: white;
+        font-size:20px;
+        }
+        #tt6:hover::before{
+           margin-left:1.5px;
+            margin-top:1.5px;
+            margin-right:1.5px;
+            padding:0.5;
+            margin:0.5;
+            color:violet;
+            background-color: white; 
+        font-size:20px;
+        }
+        #tt6:hover{
+            margin-left:1.5px;
+            margin-top:1.5px;
+            margin-right:1.5px;
+            padding:0.5;
+            margin:0.5;
+            color:white;
+            background-color: violet;
+        font-size:20px;
+        }
+        #tt6:active {
+         color:#f3f3f3;
+         position:fixed;
+         margin-top: 35%;
+         margin-left: 42%;
+         visibility: visible;
+         font-size:20px;
+     }
+     #tt6::after {
+         color:#d617d6;
+         position:fixed;
+         margin-top: 35%;
+         margin-left: 42%;
+         visibility: hidden;
+         font-size:20px;
+     }
+     #Loader45 {
+        position:fixed;
+        margin-top: 35%;
+        margin-left: 0%;
+        color: #ffffff;
+  }
+  #Loader45
+  {
+  position: relative;
+  margin-top: 35%;
+  margin-left: 42%;
+  align-items: center;
+  justify-content: center;
+  display: inline-block;
+  padding:15px 30px;
+  color:#2196f3;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  text-decoration:none;
+  font-size: 24px;
+  overflow:hidden;
+  transition: 0.2s;
+  
+  }
+  #Loader45:hover {
+    color:#255784;
+    background: #2196f3;
+    box-shadow:0 0 10px #2196f3, 0 0 40px #2196f3,0 0 80px #2196f3;
+  transition-delay: 1s;
+  }
+  #Loader45 span {
+    position: absolute;
+    display: block;
+  }
+  #Loader45 span:nth-child(1) {
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg,transparent,#2196f3);
+  }
+  #Loader45:hover span:nth-child(1) {
+    left:100%;
+    transition:1s;
+  
+  }
+  #Loader45 span:nth-child(3) {
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg,transparent,#2196f3);
+  }
+  #Loader45:hover span:nth-child(3) {
+    right:100%;
+    transition:1s;
+    transition-delay: 0.5s;
+    
+  }
+  #Loader45 span:nth-child(2) {
+    top: -100%;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg,transparent,#2196f3);
+  }
+  #Loader45:hover span:nth-child(2) {
+    top:100%;
+    transition:1s;
+    transition-delay: 0.25s;
+    
+  }
+  #Loader45 span:nth-child(4) {
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg,transparent,#2196f3);
+  }
+  #Loader45:hover span:nth-child(4) {
+    bottom:100%;
+    transition:1s;
+    transition-delay:0.75s ;
+    
+  }
+     #Loader45:active {
+         color:#f3f3f3;
+         position:fixed;
+         margin-top: 35%;
+         margin-left: 42%;
+         visibility: visible;
+     }
+     #Loader45::after {
+         color:#d617d6;
+         position:fixed;
+         margin-top: 35%;
+         margin-left: 42%;
+         visibility: hidden;
+     }
