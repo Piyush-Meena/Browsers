@@ -2,6 +2,7 @@ $("input:radio[name=theme]").click(function() {
     changeTheme($(this).val());
 });
 
+
 $(".panel-tab").click(function(){
   $(".container").toggleClass("push");
 });
